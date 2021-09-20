@@ -1,0 +1,9 @@
+* {
+  font-family: monospace;
+}
+
+@media (min-width: 600px) {
+  h1 {
+    color: red;
+  }
+}
